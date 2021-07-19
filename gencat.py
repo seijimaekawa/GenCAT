@@ -131,7 +131,7 @@ def adjust(n,k,U,C,M):
             for Th in np.arange(0.01,1,0.05):
                 sum_estimated = np.zeros(k)
                 for i in partition[l]:
-                    sum_estimated += freez_func(U[i],Th) * inverse(freez_func(U[i],Th))
+                    sum_estimated += freez_func(U[i],Th) * inverse(freez_func(U[i],Th),l)
                 loss_tmp = la.norm(M[l]-sum_estimated/len(partition[l]))
                 if loss_tmp < loss_min:
                     loss_min = loss_tmp
