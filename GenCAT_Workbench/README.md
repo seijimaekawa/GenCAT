@@ -4,7 +4,7 @@
 
 In submission.
 
-## python notebooks
+## Python notebooks
 For the reproduction of our demo, we provide two python notebooks.
 + demo_usage.ipynb
   + This notebook shows the procedures for Section 4.1
@@ -14,13 +14,13 @@ For the reproduction of our demo, we provide two python notebooks.
 
 Also, the notebooks in a folder "detailed_notebooks" show other detailed experiments.
 
-## python programs
+## Source code of GenCAT
 
 + gencat.py
   + We utilize the source code of GenCAT.
   + https://arxiv.org/abs/2109.04639
 
-## Requirements
+### Requirements
 For using GenCAT
 + jgraph==0.2.1
 + powerlaw==1.4.6
