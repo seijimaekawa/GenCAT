@@ -1,0 +1,2 @@
+model_checkpoint_path: "/content/drive/My Drive/Colab Notebooks/GenCAT/GAT-master/pre_trained/cora/mod_cora.ckpt"
+all_model_checkpoint_paths: "/content/drive/My Drive/Colab Notebooks/GenCAT/GAT-master/pre_trained/cora/mod_cora.ckpt"
