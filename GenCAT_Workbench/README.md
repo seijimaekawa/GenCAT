@@ -31,5 +31,7 @@ Other packages are pre-installed in Colab.
   + gcn-master (https://github.com/tkipf/gcn)
   + GAT-master (https://github.com/PetarV-/GAT)
   + H2GCN-master (https://github.com/GemsLab/H2GCN)
-
+  
+### Acknowledgements
+We would like to thank the community for releasing their code! This repository contains code from GCN, GAT, and H2GCN repositories.
 We made small changes in their codes to output results.
