@@ -33,5 +33,5 @@ Other packages are pre-installed in Colab.
   + H2GCN-master (https://github.com/GemsLab/H2GCN)
   
 ### Acknowledgements
-We would like to thank the community for releasing their code! This repository contains code from GCN, GAT, and H2GCN repositories.
+We would like to thank the community for releasing their codes! This repository contains the codes from GCN, GAT, and H2GCN repositories.
 We made small changes in their codes to output results.
