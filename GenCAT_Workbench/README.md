@@ -21,7 +21,7 @@ Also, the notebooks in a folder "detailed_notebooks" show other detailed experim
 
 ## Demo video
 We provide demo video of GenCAT Workbench, which explains the usage and use cases in detail.
-```https://drive.google.com/file/d/1Z8WarlXKFXHd-c1-J46AVwVnI98Djaen```.  
++ https://drive.google.com/file/d/1Z8WarlXKFXHd-c1-J46AVwVnI98Djaen
 
 ## Source code of GenCAT
 
