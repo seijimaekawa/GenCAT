@@ -9,12 +9,19 @@ For the reproduction of our demo, we provide a Jupyter notebook, ```GenCAT_Workb
 
 This notebook consists of two parts:
 + Usage of parameter configuration and graph generation
+  + Parameter extraction from a given graph.
+  + Parameter configuration for generating various graphs that users desire. 
+  + Generating graphs and showing the statistics of the generated graphs.
 + Use cases for demonstrating deep analysis on graph neural networks with various synthetic graphs
   + Accuracy on graphs with various "edge connection proportions between classes".
   + Accuracy on graphs with various "attribute values".
   + Training time per epoch for various "number of edges".
 
 Also, the notebooks in a folder "detailed_notebooks" show other detailed experiments.
+
+## Demo video
+We provide demo video of GenCAT Workbench, which explains the usage and use cases in detail.
+```https://drive.google.com/file/d/1Z8WarlXKFXHd-c1-J46AVwVnI98Djaen```.  
 
 ## Source code of GenCAT
 
