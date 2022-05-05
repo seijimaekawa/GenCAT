@@ -5,12 +5,14 @@
 In submission.
 
 ## Python notebooks
-For the reproduction of our demo, we provide two python notebooks.
-+ demo_usage.ipynb
-  + This notebook shows the procedures for Section 4.1
-+ demo_use_cases.ipynb
-  + This notebook shows the procedures for Section 4.2
-  + This notebook provides an end-to-end procedure of GenCAT Workbench.
+For the reproduction of our demo, we provide a Jupyter notebook, ```GenCAT_Workbench_Usage_and_UseCase.ipynb```.
+
+This notebook consists of two parts:
++ Usage of parameter configuration and graph generation
++ Use cases for demonstrating deep analysis on graph neural networks with various synthetic graphs
+  + Accuracy on graphs with various "edge connection proportions between classes".
+  + Accuracy on graphs with various "attribute values".
+  + Training time per epoch for various "number of edges".
 
 Also, the notebooks in a folder "detailed_notebooks" show other detailed experiments.
 
