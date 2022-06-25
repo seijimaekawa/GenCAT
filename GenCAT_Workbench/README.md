@@ -1,8 +1,6 @@
-# README
+# Benchmarking GNNs with GenCAT Workbench
 
-## GenCAT Workbench
-
-In submission.
+This paper is accepted by the demo track of [ECML/PKDD 2022](https://2022.ecmlpkdd.org/).
 
 ## Python notebooks
 For the reproduction of our demo, we provide a Jupyter notebook, ```GenCAT_Workbench_Usage_and_UseCase.ipynb```.
