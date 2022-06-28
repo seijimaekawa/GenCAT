@@ -2,7 +2,7 @@
 
 This paper is accepted by the demo track of [ECML/PKDD 2022](https://2022.ecmlpkdd.org/).
 
-## Python notebooks
+## Experimental reproducibility
 For the reproduction of our demo, we provide a Jupyter notebook, ```GenCAT_Workbench_Usage_and_UseCase.ipynb```.
 
 This notebook consists of two parts:
@@ -16,6 +16,9 @@ This notebook consists of two parts:
   + Training time per epoch for various "number of edges".
 
 Also, the notebooks in a folder "detailed_notebooks" show other detailed experiments.
+
+### Implementation
+We measure training time on a NVIDIA Tesla P100 GPU (12GB) and Intel(R) Xeon(R) CPU @ 2.20GHz (24GB).
 
 ## Demo video
 We provide demo video of GenCAT Workbench, which explains the usage and use cases in detail.
