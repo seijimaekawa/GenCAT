@@ -2,8 +2,8 @@
 
 This paper is accepted by the demo track of [ECML/PKDD 2022](https://2022.ecmlpkdd.org/).
 
-The successor paper is accepted to NeurIPS 2022 Datasets and Benchmarks Track [[paper](https://openreview.net/forum?id=bSULxOy3On)] [[code](https://github.com/seijimaekawa/empirical-study-of-GNNs)].
-
+The successor paper is accepted to NeurIPS 2022 Datasets and Benchmarks Track [[paper](https://openreview.net/forum?id=bSULxOy3On)] [[code](https://github.com/seijimaekawa/empirical-study-of-GNNs)]. 
+We highly recommend that you use the [code](https://github.com/seijimaekawa/empirical-study-of-GNNs) for the NeurIPS paper, which supports more recent GNNs. 
 
 ## Experimental reproducibility
 For the reproduction of our demo, we provide a Jupyter notebook, ```GenCAT_Workbench_Usage_and_UseCase.ipynb```.
