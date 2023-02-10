@@ -1,5 +1,5 @@
 # GenCAT: Generating Attributed Graphs with Controlled Relationships between Classes, Attributes, and Topology
-This paper is accepted to [Information Systems](https://www.sciencedirect.com/journal/information-systems) [paper](https://arxiv.org/abs/2109.04639)🎉🎉
+This paper is accepted to [Information Systems](https://www.sciencedirect.com/journal/information-systems) [[paper](https://arxiv.org/abs/2109.04639)]🎉🎉
 
 GenCAT allows users to generate attributed graphs with controlled relationships between classes, attributes, and topology.
 
